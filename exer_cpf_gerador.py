@@ -45,8 +45,5 @@ cpf_gerado_pelo_algoritmo = f'{nove_digitos}{digito_1}{digito_2}'
 print(cpf_gerado_pelo_algoritmo)
 
 
-# if cpf_enviado_usuario == cpf_gerado_pelo_algoritmo:
-#     print(f'{cpf_enviado_usuario} é válido')
-# else:
-#     print('cpf inválido')
+
 
